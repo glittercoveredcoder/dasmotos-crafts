@@ -1,3 +1,28 @@
 body {
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
+
+header {
+  background-image: url("pattern.webp");
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brush-banner {
+  background-color: mediumspringgreen;
+}
+
+span {
+  font-weight: bold;
+  color: blue;
 }
